@@ -8,8 +8,10 @@ Now run:
 python3 "script_name.py"
 
 Note:
+- Find the attached example bomb file 
 - You can change the range to negative and check if you are unable to get an answer.
 - The ideal range is i,j,k = -1000 to 1000.
 - Use the negative values only if the positive value is exhausted and you get no answer.
 - 0,0 is always a false postive.
 - You need to have the bomb file in the same location as the scripts.
+- This doesnt solve the Secret Phase
